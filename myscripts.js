@@ -1,4 +1,4 @@
 
-function myFunction() {
-    document.getElementById("demo").innerHTML = "Javascript works";
-}
+//function myFunction() {
+  //  document.getElementById("demo").innerHTML = "Javascript works";
+//}

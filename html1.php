@@ -18,6 +18,9 @@
 <button type="button" onclick="myFunction()">Try it</button>
 
 
+<?php
+include ("counter.php")	
+?>
 
 <h4>This is heading 4</h4>
 <h5>This is heading 5</h5>
